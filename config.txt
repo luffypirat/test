@@ -1,1 +1,1 @@
-Версия 2.0-release
+Версия 2.0-release + hotfix

@@ -1,2 +1,3 @@
-Версия 2.0-release + hotfix
+Version 2.0-release + hotfix
 Конфликт
+Строка 1
